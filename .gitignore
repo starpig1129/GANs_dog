@@ -5,4 +5,4 @@ cifar10_generated_images
 annotations
 Images
 archive.zip
-*_res.pth
+weight/*_res.pth
